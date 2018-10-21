@@ -13,6 +13,9 @@ $file.delete("/a/boot/currentstyle.css");
 location.reload()`
 
 After the execution of the script, Windows93 will reboot. **NOTE: This will clear the current theme.**
+# ThemeMaster Development Discord Server
+ThemeMaster has a Discord server! There you can help and develop, share code with the other Dev Team members, chat (of course) and find information about all the upcoming features!
+You can join the server with this link: ***https://discord.gg/9mgPRY3***.
 # A huge thank you to:
 •**Domenic Waterdash, Draco, DarkPhoenix10 and 1024x2** for the Windows93 Javascript Documentation;
 
